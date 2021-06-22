@@ -16,5 +16,6 @@
 <img src="images/js.png" height="50" width="50" alt="James profile picture">
 
 ### Get in touch
-<a href="https://www.instagram.com/james__f_/"><img src="images/insta.png" height="50" width="50" alt="James profile picture"></a><addr>
+<a href="https://www.instagram.com/james__f_/" target="_blank"><img src="images/insta.png" height="50" width="50" alt="James profile picture"></a><addr>
+<a href="mailto:jamesfrancis1947@gmail.com" target="_blank"><img src="images/gmail.png" height="50" width="50" alt="James profile picture"></a>
 
