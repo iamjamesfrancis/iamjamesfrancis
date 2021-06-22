@@ -1,5 +1,4 @@
-<img src="images/avatar.png" height="200" width="200" alt="James profile picture">
-
+<img src="images/avatar.png" height="200" width="200" alt="James profile picture"><addr>
 # Hi,  I'm James 
 
 
