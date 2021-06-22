@@ -1,4 +1,4 @@
-# Hi, Iam James <img src="circle.png" style="max-height:200px;width:auto;">
+# Hi, Iam James <img src="circle.png" style="height:100px;width:100px;">
 
 
 - 🏫 Currently pursuing in [NTTF](https://www.nttftrg.com)
