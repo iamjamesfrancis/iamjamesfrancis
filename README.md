@@ -13,4 +13,5 @@
 <img src="images/html.png" height="50" width="50" alt="James profile picture">
 <img src="images/css.png" height="50" width="50" alt="James profile picture">
 <img src="images/figma.png" height="50" width="50" alt="James profile picture">
+<img src="images/js.png" height="50" width="50" alt="James profile picture">
 
