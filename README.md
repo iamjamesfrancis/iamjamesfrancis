@@ -7,7 +7,7 @@
 - 📚 Studying Data Science
 
 ### Good in
-<img src="images/django.png" height="50" width="50" alt="James profile picture">
+<img src="images/django.png" height="50" width="50" alt="James profile picture">`<addr>`
 <img src="images/python.png" height="50" width="50" alt="James profile picture">
 <img src="images/flutter.png" height="50" width="50" alt="James profile picture">
 <img src="images/html.png" height="50" width="50" alt="James profile picture">
