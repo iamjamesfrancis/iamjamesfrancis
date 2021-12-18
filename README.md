@@ -1,7 +1,7 @@
 # Hi,  I'm James 
 
 
-- 🏫 Currently pursuing in [NTTF](https://www.nttftrg.com)
+- 🏫 Currently pursuing in [Dayananda Sagar University](https://www.dsu.edu.in/)
 - 📚 Studying Data Science
 
 ### Good in
