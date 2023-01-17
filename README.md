@@ -1,8 +1,7 @@
 # Hi,  I'm James 
 
 
-- 🏫 Currently pursuing in [Dayananda Sagar University](https://www.dsu.edu.in/)
-- 📚 Studying Data Science
+- Associate Engineer @AlphaVarianceSolutions
 
 ### Good in
 <img src="images/html.png" height="50" width="50" alt="HTML"><addr>
